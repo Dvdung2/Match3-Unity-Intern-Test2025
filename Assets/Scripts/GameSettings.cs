@@ -10,7 +10,7 @@ public class GameSettings : ScriptableObject
 
     public int MatchesMin = 3;
 
-    public int LevelMoves = 16;
+    public int LevelMoves = 30;
 
     public float LevelTime = 180f;
 
